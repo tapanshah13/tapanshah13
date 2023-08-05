@@ -1,5 +1,5 @@
 <hr>
-<br>
+<p>##</p>
 <img alt="Night Coding" src="./assets/Hand%20Wave.gif" width='40' /><h2>Hey there! I'm Tapan</h2>
 
 <!-- ## 👋 &nbsp;Hey there! I'm Aditya -->
