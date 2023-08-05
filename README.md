@@ -1,5 +1,9 @@
 <hr>
 <p>###</p>
+![Aditya Vikram Singh Banner](./assets/Black%20Technology%20LinkedIn%20Banner%20(2).png)
+
+![Aditya Vikram Singh Banner](https://github.com/tapanshah13/tapanshah13/blob/main/assets/Black%20Technology%20LinkedIn%20Banner%20(2).png)
+
 <img alt="Night Coding" src="./assets/Hand%20Wave.gif" width='40' align="left"/><h2>Hey there! I'm Tapan</h2>
 
 <!-- ## 👋 &nbsp;Hey there! I'm Aditya -->
