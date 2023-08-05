@@ -14,8 +14,6 @@
 
 <img alt="Night Coding" src="https://raw.githubusercontent.com/AVS1508/AVS1508/master/assets/Night-Coding.gif" align="right"/>
 
-&nbsp;
-
 ### 🛠 &nbsp;Tech Stack
 
 ![Python](https://img.shields.io/badge/-Python-05122A?style=flat&logo=python)&nbsp;
@@ -41,32 +39,13 @@
 ![Visual Studio Code](https://img.shields.io/badge/-Visual%20Studio%20Code-05122A?style=flat&logo=visual-studio-code&logoColor=007ACC)&nbsp;
 ![Figma](https://img.shields.io/badge/-Figma-05122A?style=flat&logo=figma)&nbsp;
 
-
-<br>
-### ⚙️ &nbsp;GitHub Analytics
-
-<div align="center">
-<a href="https://github.com/tapanshah13">
-  <img height="180em" src="https://github-readme-stats-eight-theta.vercel.app/api?username=tapanshah13&show_icons=true&theme=algolia&include_all_commits=true&count_private=true"/>
-  <img height="180em" width="40%" src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=tapanshah13&layout=compact&langs_count=2&theme=algolia"/>
-</a>
-</div>
-
-
 ### ⚙️ &nbsp;GitHub Analytics
 <p align="center">
-<a href="https://github.com/AVS1508" display="flex">
-  <img src="https://github-readme-stats-eight-theta.vercel.app/api?username=tapanshah13&show_icons=true&theme=algolia&include_all_commits=true&count_private=true"/>
-  <img src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=tapanshah13&layout=compact&langs_count=8&theme=algolia"/>
+<a href="https://github.com/AVS1508">
+  <img height="180em" src="https://github-readme-stats-eight-theta.vercel.app/api?username=AVS1508&show_icons=true&theme=algolia&include_all_commits=true&count_private=true"/>
+  <img height="180em" src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=AVS1508&layout=compact&langs_count=2&theme=algolia"/>
 </a>
 </p>
-
-
-### ⚙️ &nbsp;GitHub Analytics
-<div style="display: flex; flex-direction: row; height: 100px; width: 100%;">
-  <img src="https://camo.githubusercontent.com/f8a51ea40de0bb64c53e69c424fb0ff09b04ab3dc35126e8730369e8ebf59482/68747470733a2f2f6769746875622d726561646d652d73746174732d65696768742d74686574612e76657263656c2e6170702f6170693f757365726e616d653d746170616e7368616831332673686f775f69636f6e733d74727565267468656d653d616c676f6c696126696e636c7564655f616c6c5f636f6d6d6974733d7472756526636f756e745f707269766174653d74727565" style="max-width: 100%;">
-  <img src="https://camo.githubusercontent.com/89cde06ab15738a8fae88c28aa92e27eb23415a64915b403772ce6e7003661e8/68747470733a2f2f6769746875622d726561646d652d73746174732d65696768742d74686574612e76657263656c2e6170702f6170692f746f702d6c616e67732f3f757365726e616d653d746170616e736861683133266c61796f75743d636f6d70616374266c616e67735f636f756e743d38267468656d653d616c676f6c6961" style="">
-</div>
 
 
 <p align="center">
