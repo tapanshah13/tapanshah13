@@ -12,7 +12,7 @@
 ✍️ &nbsp;In my free time, I pursue Coding Project, Web Design/Development, LeetCode & Gaming.\
 💬 &nbsp;Feel free to reach out to me for pro bono consulting and volunteering, or just for some interesting discussion.\
 🔗 &nbsp;Check out my website https://tapanshah13.github.io/ for more details .\
-✉️ &nbsp;You can shoot me an email at shahtapana@outlook.com! I'll try to respond as soon as I can.\
+✉️ &nbsp;You can shoot me an email at shahtapana@outlook.com! I'll try to respond as soon as I can.
 <!--
 📄 &nbsp;Please have a look at my [Résumé](https://www.adityavsingh.com/resume.html) for more details about me. I'm open to feedback and suggestions!
 -->
