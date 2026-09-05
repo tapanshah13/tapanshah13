@@ -43,23 +43,6 @@
 ![Bitbucket](https://img.shields.io/badge/-BitBucket-05122A?style=flat&logo=bitbucket&logoColor=blue)&nbsp;
 ![Visual Studio Code](https://img.shields.io/badge/-Visual%20Studio%20Code-05122A?style=flat&logo=visual-studio-code&logoColor=007ACC)&nbsp;
 
-### ⚙️ &nbsp;GitHub Analytics
-
-<p align="center">
-  <a href="https://github.com/tapanshah13">
-    <img
-      height="180em"
-      src="https://github-readme-stats-eight-theta.vercel.app/api?username=tapanshah13&show_icons=true&theme=algolia&include_all_commits=true&count_private=true&hide=commits"
-    />
-  </a>
-</p>
-
-<p align="center">
-  <img
-    src="https://img.shields.io/badge/Total%20Commits-14750-00AEFF?style=for-the-badge&logo=github&logoColor=white"
-    alt="Total Commits"
-  />
-</p>
 
 <!--
 <p align="center">
