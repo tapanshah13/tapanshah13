@@ -46,12 +46,19 @@
 ### ⚙️ &nbsp;GitHub Analytics
 
 <p align="center">
-<a href="https://github.com/tapanshah13">
+  <a href="https://github.com/tapanshah13">
+    <img
+      height="180em"
+      src="https://github-readme-stats-eight-theta.vercel.app/api?username=tapanshah13&show_icons=true&theme=algolia&include_all_commits=true&count_private=true&hide=commits"
+    />
+  </a>
+</p>
+
+<p align="center">
   <img
-    height="180em"
-    src="https://github-readme-stats-eight-theta.vercel.app/api?username=tapanshah13&show_icons=true&theme=algolia&include_all_commits=true&count_private=true&cache_seconds=1800&v=2"
+    src="https://img.shields.io/badge/Total%20Commits-14750-00AEFF?style=for-the-badge&logo=github&logoColor=white"
+    alt="Total Commits"
   />
-</a>
 </p>
 
 <!--
